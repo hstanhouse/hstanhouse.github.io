@@ -4,7 +4,7 @@ subtitle: by Hanna Stanhouse
 email: hstanhouse@gmail.com
 description: The Curatorial
 # baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://hstanhouse.gitlab.io" # the base hostname & protocol for your site
+url: "https://hstanhouse.github.io" # the base hostname & protocol for your site
 author: Hanna Stanhouse
 street_address: Street Address
 city: City
