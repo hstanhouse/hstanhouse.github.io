@@ -1,0 +1,30 @@
+# Site settings
+title: The Curatorial
+subtitle: by Hanna Stanhouse
+email: hstanhouse@gmail.com
+description: The Curatorial
+# baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://hstanhouse.gitlab.io" # the base hostname & protocol for your site
+author: Hanna Stanhouse
+street_address: Street Address
+city: City
+state: State
+zip_code: Zip Code
+country: United States of America
+phone: 555-555-5555
+
+# Social settings
+# 500px_url:
+facebook_url: https://www.facebook.com/hanna.stanhouse
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://www.instagram.com/hanna_stan
+linkedin_url: https://www.linkedin.com/in/hanna-stanhouse-3502b985
+pinterest_url: https://www.pinterest.com/hstanhouse/
+# slack_url:
+twitter_url: https://twitter.com/hanna_stan
+
+# Build settings
+markdown: kramdown
+future: true
